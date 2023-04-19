@@ -46,7 +46,3 @@ for (let i = 0; i < opponents.length; i++) {
     }
   }
 }
-
-
-
-
